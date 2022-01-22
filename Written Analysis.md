@@ -110,9 +110,9 @@ New dataset results:
 ## Summary
 
 Any categorization that requires schools to be grouped with each other, shows no changes in the scores in the new data. This is because the total number of students becomes a lot larger than the number 416 (for which the grades were omitted). The only changes caused by changing the reading and math scores for grade 9 students at Thomas High are:
-    - Math scores by grade at Thomas High
-    - Reading scores by grade at Thomas High
-    - Percent passing Math at Thomas High
-    - Percent passing Reading at Thomas High
-    - Percent overall passing at Thomas
+- Math scores by grade at Thomas High
+- Reading scores by grade at Thomas High
+- Percent passing Math at Thomas High
+- Percent passing Reading at Thomas High
+- Percent overall passing at Thomas
 
