@@ -27,19 +27,25 @@ New dataset results:
 
 Please note the slight change in the percentage of total students passing math between the old and the new data. There is a difference of 0.89, which is extremely miniscule compared the scale at which these calculations are be done at (order of ten thousands)
 
-
 | Old | New |
 | --- | --- |
-| ![Old Math percent results](/Resources/passing_math%_old.png) | ![Old Math percent results](/Resources/passing_math%_new.png) |
+| ![Old Math percent results](/Resources/passing_mathp_old.png) | ![Old Math percent results](/Resources/passing_mathp_new.png) |
 
+<center>
+| Old | New |
+| --- | --- |
+| ![Old Math percent results](/Resources/passing_mathp_old.png) | ![Old Math percent results](/Resources/passing_mathp_new.png) |
+</center>
 
+<center>
 | Old | New |
 | --- | --- |
 | <p align="center">
-<img src="/Resources/passing_math%_old" width="100%" height="100%">
+<img src="/Resources/passing_mathp_old" width="100%" height="100%">
 </p> | <p align="center">
-<img src="/Resources/passing_math%_old" width="100%" height="100%">
+<img src="/Resources/passing_mathp_old" width="100%" height="100%">
 </p> |
+</center>
 
 
 
